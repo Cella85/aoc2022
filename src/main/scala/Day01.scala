@@ -16,7 +16,7 @@ object Day01 extends App:
       .toList
 
   val answer1: Int =
-    667
+    666
 
   println(s"Answer day $day part 1: ${answer1} [${System.currentTimeMillis - start1}ms]")
 
@@ -24,6 +24,6 @@ object Day01 extends App:
     System.currentTimeMillis
 
   val answer2: Int =
-    667
+    666
 
   println(s"Answer day $day part 2: ${answer2} [${System.currentTimeMillis - start2}ms]")
